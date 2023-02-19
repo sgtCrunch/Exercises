@@ -1,5 +1,5 @@
 - What is HTTP?
-Hper Text Transfer Protocol is the rules on how users get and send data to servers.
+Hyper Text Transfer Protocol is the rules on how users get and send data to servers.
 - What is a URL?
 Uniform Resource Locator is the address for an internet location
 - What is DNS?
